@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\bin\Debug\WPF MoviesCRUD.exe.config
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\bin\Debug\WPF MoviesCRUD.exe
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\bin\Debug\WPF MoviesCRUD.pdb
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD_MarkupCompile.cache
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD_MarkupCompile.lref
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD.g.resources
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF_MoviesCRUD.Properties.Resources.resources
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD.exe
+C:\Users\User\source\repos\WPF MoviesCRUD\WPF MoviesCRUD\obj\Debug\WPF MoviesCRUD.pdb
